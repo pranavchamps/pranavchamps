@@ -15,17 +15,26 @@ Passionate about coding, problem-solving, and crafting innovative solutions, Iâ€
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="80" height="80" style="border-radius:50%;">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" style="border-radius:50%;">  
 </p>
+<p align="center">
+  <b>HTML</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>CSS</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>JavaScript</b>
+</p>
 
-### **Mobile App Development**  
+### **Mobile App Development & Backend**  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="80" height="80" style="border-radius:50%;">
+  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase" width="80" height="80" style="border-radius:50%;">
+</p>
+<p align="center">
+  <b>Flutter</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>Firebase</b>
 </p>
 
 ### **Programming Languages & Hardware**  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80" style="border-radius:50%;">
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="80" height="80" style="border-radius:50%;">
+</p>
+<p align="center">
+  <b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>Arduino</b>
 </p>
 
 ---
