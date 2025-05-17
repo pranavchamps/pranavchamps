@@ -1,34 +1,71 @@
-# 👋 Hi, I'm Pranav Vishwanath Salunkhe
+# 👋 Hi, I'm **Pranav Vishwanath Salunkhe**
 
-🎓 **Second Year Computer Engineering Student**  
+🎓 **Aspiring Computer Engineer | Second Year Student**  
 📍 **University of Mumbai**  
 
----
-
-## 🛠️ Languages and Technologies I Know
-
-- **Frontend Development:**  
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-
-- **Mobile App Development:**  
-  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-- **Programming Languages:**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+Passionate about coding, problem-solving, and crafting innovative solutions, I’m currently exploring diverse technologies and striving to create impactful projects.  
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced concepts in **Flutter** and **Python**  
-- Exploring **Data Science**, **Blockchain**, and **AI/ML**
+## 🛠️ **Skills & Expertise**
+
+### **Frontend Development**  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="80" height="80" style="border-radius:50%;">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="80" height="80" style="border-radius:50%;">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" style="border-radius:50%;">  
+</p>
+
+### **Mobile App Development**  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="80" height="80" style="border-radius:50%;">
+</p>
+
+### **Programming Languages & Hardware**  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80" style="border-radius:50%;">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="80" height="80" style="border-radius:50%;">
+</p>
 
 ---
 
-## 📫 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavsalunkhe9/)  
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pranav.salunkhee/)  
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pranavchamps/pranavchamps)  
+## 🌱 **What I'm Learning**  
+- Advanced Flutter for cross-platform app development.  
+- Diving into **Data Science**, **Blockchain**, and **AI/ML** to build a solid foundation for emerging tech.  
 
-Feel free to check out my repositories and projects. Contributions and collaborations are always welcome! 😊
+---
+
+## 🧩 **My Projects**
+🚀 Explore my repositories on GitHub for projects ranging from web apps to mobile solutions. Each project reflects my dedication to learning and improving my craft.  
+
+---
+
+## 📫 **Connect With Me**  
+I'm always excited to connect, collaborate, and grow!  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranavsalunkhe9/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60" style="border-radius:50%;">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/pranavchamps/pranavchamps" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="60" height="60" style="border-radius:50%;">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/pranav.salunkhee/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="60" height="60" style="border-radius:50%;">
+  </a>
+</p>
+
+---
+
+## 🎯 **Future Goals**  
+- **Short Term:** Build apps and systems that solve real-world problems.  
+- **Long Term:** Transition into a tech leader by mastering emerging technologies and leading innovative projects.  
+
+---
+
+🌟 *"Code is like humor. When you have to explain it, it’s bad." – Cory House*  
+
+Let's build something amazing together! 🚀
